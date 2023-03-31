@@ -1,6 +1,6 @@
 Name:		texlive-minidocument
 Version:	43752
-Release:	1
+Release:	2
 Summary:	Creates miniature documents inside other LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/minidocument

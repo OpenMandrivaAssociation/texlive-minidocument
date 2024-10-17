@@ -3,7 +3,7 @@ Version:	43752
 Release:	2
 Summary:	Creates miniature documents inside other LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/minidocument
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/minidocument
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/minidocument.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/minidocument.doc.r%{version}.tar.xz
